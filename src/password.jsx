@@ -1,6 +1,6 @@
 import { useState, useCallback ,useEffect} from 'react' 
 import './App.css'
-import { Button } from 'bootstrap'
+
 
 function Password(){
 const [password,setpassword]=useState('')
